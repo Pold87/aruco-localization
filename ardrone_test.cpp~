@@ -1,9 +1,0 @@
-include <iostream>
-
-using namespace std;
-
-int main() {
-
-  cout << "Hello AR.Drone.2.0" << endl:
-  
-}
